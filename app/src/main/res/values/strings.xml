@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kubus</string>
+    <string name="hint_sisi">Masukkan panjang sisi</string>
+    <string name="btn_hitung">Hitung Volume dan Luas</string>
+    <string name="result_prefix">Hasil: </string>
+    <string name="toast_empty_input">Mohon masukkan panjang sisi</string>
+</resources>
